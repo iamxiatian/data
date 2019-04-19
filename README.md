@@ -1,5 +1,7 @@
-Data Collection 
+数据集
 ====
+
+* archive_consult.zip: 从全国数据量最多的前10个省级档案网站抓取的在线咨询交互数据，以XML格式保存。
 
 * odp4espm.zip: This is the ODP dataset used in paper: Generating Categorical Semantic Path via Explicit Semantic Path Mining
 
